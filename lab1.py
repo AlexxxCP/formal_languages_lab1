@@ -51,7 +51,6 @@ class Grammar:
         # Создаём и возвращаем автомат
         return FiniteAutomaton(transitions, self.start)
 
-
 class FiniteAutomaton:
 
     def __init__(self, transitions, start_state):
