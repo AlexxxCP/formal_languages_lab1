@@ -1,7 +1,7 @@
 # Laboratory Work #1 - Formal Languages and Finite Automata
 **Course:** Formal Languages & Finite Automata  
-**Variant:** 14  
-**Date:** February 2026
+**Variant:** 14  Luchiciov Alexei FAF-241
+
 
 ---
 
