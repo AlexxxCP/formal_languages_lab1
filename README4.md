@@ -48,7 +48,7 @@ tr1   = capture_trace(PATTERNS[0][0])
 tr2   = capture_trace(PATTERNS[1][0])
 tr3   = capture_trace(PATTERNS[2][0])
 
-report = f"""# Laboratory Work #3 — Regular Expressions
+report = f"""# Laboratory Work #4 — Regular Expressions
 
 **Course:** Formal Languages & Finite Automata  
 **Student:** Luchiciov Alexei
