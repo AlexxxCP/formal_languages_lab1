@@ -1,10 +1,3 @@
-"""
-generate_report.py
-Run this once to produce REPORT.md automatically.
-It imports regex.py and main.py logic, captures real output,
-and writes the finished report.
-"""
-
 import random
 import sys
 import io
@@ -58,8 +51,8 @@ tr3   = capture_trace(PATTERNS[2][0])
 report = f"""# Laboratory Work #3 — Regular Expressions
 
 **Course:** Formal Languages & Finite Automata  
-**Student:** Luchiciov Alexei  
-**Group:** FAF-241  
+**Student:** Luchiciov Alexei
+**Group:** FAF-241
 
 ---
 
